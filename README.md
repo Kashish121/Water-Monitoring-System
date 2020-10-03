@@ -166,7 +166,9 @@ This project is part of the following Open Source programs:
 - [GirlScript Summer of Code 2020](https://www.gssoc.tech/)
 - [Rails Girls Summer of Code 2020](http://railsgirlssummerofcode.org/)
 - [Student Code In](https://scodein.tech/)
+- [Leapcode](https://www.leapcode.io/)
 - [JGEC Winter of Code 2020](https://jwoc.tech/)
+- [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/)
 
 ## Frequently Asked Questions(FAQs) for [GSSoC'20](https://www.gssoc.tech/)
 
@@ -237,6 +239,22 @@ if (_.contains(projectsInRGSoC, {
 - **[Click here](https://twitter.com/Vinit_Shahdeo/status/1234936360613695489) to view the tweet**. RTs are most welcome! :heart:
 - Feel free to **shoot your doubts [here](https://github.com/vinitshahdeo/Water-Monitoring-System/issues/141)**.
 
+## Leapcode
+
+[![leapcode-logo-full-png](https://user-images.githubusercontent.com/20594326/86490975-e5639f00-bd86-11ea-853b-1a0ecdc59201.png)](http://leapcode.io/)
+
+Now, we're officially a part of [leapcode.io](http://leapcode.io/). They're still building and hopeful to have their platform up pretty soon. [Click here](https://www.leapcode.io/) to get an early access.
+
+## Hacktoberfest
+
+<a href="https://hacktoberfest.digitalocean.com/"><img src="assets/Logo.svg" width="30%"></a>
+
+**Register [here](https://hacktoberfest.digitalocean.com) for Hacktoberfest and make four pull requests (PRs) between October 1-31 to earn a free t-shirt.**
+
+There are many beginner level issues to begin with, with **Hacktoberfest** as the label which include documentation, development and design. Take up any issue and send your first PR!
+
+
+
 ## Additional Info
 
 - If you're interested in contributing for **documentation**, please checkout `feature/documentation` branch.
@@ -267,7 +285,10 @@ if (_.contains(projectsInRGSoC, {
 | [@jainpawan21](https://github.com/jainpawan21)        | Frontend                   |
 | [@amaaniqbal](https://github.com/amaaniqbal)          | Frontend                   |
 | [@nainikaB](https://github.com/nainikaB)              | UI/UX                      |
+| [@roypratik](https://github.com/roypratik)            | IoT                        |
 | [@sharmishthadash](https://github.com/sharmishthadash)| Product Management         |
+| [@nandikajain](https://github.com/nandikajain)        | Frontend (React)           |
+| [@harshita19244](https://github.com/harshita19244)    | Frontend (React)           |
 
 [![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Water-Monitoring-System/images/0)](https://fayz.in/stories/s/1522/0/?ckt_id=ZGL1ZGVk)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Water-Monitoring-System/images/1)](https://github.com/vinitshahdeo)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Water-Monitoring-System/images/2)](https://github.com/vinitshahdeo)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Water-Monitoring-System/images/3)](https://www.linkedin.com/in/vinitshahdeo/)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Water-Monitoring-System/images/4)](https://www.linkedin.com/in/vinitshahdeo/)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Water-Monitoring-System/images/5)](https://www.linkedin.com/in/vinitshahdeo/)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Water-Monitoring-System/images/6)](https://fayz.in/stories/s/1522/0/?ckt_id=ZGL1ZGVk)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Water-Monitoring-System/images/7)](https://twitter.com/Vinit_Shahdeo)
 
@@ -359,3 +380,6 @@ if (thisRepo.isAwesome()) {
 ---
 
 [![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/vinitshahdeo/) [![powered by water](https://forthebadge.com/images/badges/powered-by-water.svg)](https://github.com/vinitshahdeo/) [![smile please](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://github.com/vinitshahdeo/)
+
+<p align="center"><strong><sup>:hugs: <br>Check out my other projects <a href="./PROJECTS.md">here</a>!</sup></strong></p>
+
